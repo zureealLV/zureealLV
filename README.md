@@ -11,7 +11,7 @@
 
 ### `> whoami`
 
-**osu! player** • **blogger** • **赛博阴郁长发男**
+**osu! player** • **poet** • **赛卛精神病**
 
 [![Blog](https://img.shields.io/badge/Blog-zureeallv.com-00d4aa?style=flat&logo=firefox&logoColor=white)](https://zureeallv.com)
 [![osu!](https://img.shields.io/badge/osu!-zureealLV-ff66aa?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiIGZpbGw9IiNmZjY2YWEiLz48L3N2Zz4=)](https://osu.ppy.sh/users/37641269)
@@ -68,16 +68,6 @@
 
 ---
 
-### 🎵 Now Playing
-
-<div align="center">
-
-[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=31hbf5m4lk3qj&cover_image=true&theme=default&show_offline=false&background_color=0d1117&interchange=true&bar_color=00d4aa)](https://open.spotify.com/user/31hbf5m4lk3qj)
-
-</div>
-
----
-
 <div align="center">
 
 ```
@@ -87,7 +77,7 @@
  \___/ 
 ```
 
-*"啦啦啦啦啦，好想玩OSU！"*
+*"感谢你的庇佑🙏"*
 
 <img src="https://komarev.com/ghpvc/?username=zureealLV&color=00d4aa&style=flat&label=Profile+Views" alt="Profile views" />
 
