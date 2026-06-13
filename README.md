@@ -25,16 +25,16 @@
 
 <table align="center">
 <tr>
-<td align="center"><b>PP</b><br>4,684</td>
-<td align="center"><b>Rank</b><br>#128,994</td>
-<td align="center"><b>Acc</b><br>96.62%</td>
-<td align="center"><b>Play</b><br>16,585</td>
+<td align="center"><b>PP</b><br>4,702</td>
+<td align="center"><b>Rank</b><br>#125,845</td>
+<td align="center"><b>Acc</b><br>96.63%</td>
+<td align="center"><b>Play</b><br>16,955</td>
 </tr>
 <tr>
 <td align="center"><b>Level</b><br>100</td>
 <td align="center"><b>Combo</b><br>1,526</td>
-<td align="center"><b>SS/S/A</b><br>0/70/906</td>
-<td align="center"><b>Score</b><br>9.7B</td>
+<td align="center"><b>SS/S/A</b><br>0/71/909</td>
+<td align="center"><b>Score</b><br>9.8B</td>
 </tr>
 </table>
 
