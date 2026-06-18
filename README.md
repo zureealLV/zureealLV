@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4aa,100:ff66aa&height=220&section=header&text=zureealLV&fontSize=80&fontColor=ffffff&fontAlignY=35&desc=osu!%20player%20%E2%80%A2%20poet%20%E2%80%A2%20%E8%B5%9B%E5%8D%9A%E7%B2%BE%E7%A5%9E%E7%97%85&descSize=18&descAlignY=55&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4aa,100:ff66aa&height=220&section=header&text=%E3%85%92%F0%9D%92%B3%F0%9D%93%84%F0%9D%92%B6%F0%9D%92%B6%F0%9D%92%B0%F0%9D%92%B5%F0%9D%93%83%E3%85%92&fontSize=70&fontColor=ffffff&fontAlignY=35&desc=osu!%20player%20%E2%80%A2%20poet%20%E2%80%A2%20%E8%B5%9B%E5%8D%9A%E7%B2%BE%E7%A5%9E%E7%97%85&descSize=18&descAlignY=55&animation=fadeIn" width="100%"/>
 
 <br/>
 
