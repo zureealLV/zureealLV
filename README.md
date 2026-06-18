@@ -19,16 +19,16 @@
 
 <table>
 <tr>
-<td align="center" width="120"><img src="https://img.shields.io/badge/PP-4%2C702-ff66aa?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiIGZpbGw9IiNmZjY2YWEiLz48L3N2Zz4=" alt="PP"/><br/><b>4,702</b></td>
-<td align="center" width="120"><img src="https://img.shields.io/badge/Rank-%23125%2C845-00d4aa?style=flat-square" alt="Rank"/><br/><b>#125,845</b></td>
-<td align="center" width="120"><img src="https://img.shields.io/badge/Acc-96.63%25-00d4aa?style=flat-square" alt="Acc"/><br/><b>96.63%</b></td>
-<td align="center" width="120"><img src="https://img.shields.io/badge/Play-16%2C955-00d4aa?style=flat-square" alt="Play"/><br/><b>16,955</b></td>
+<td align="center" width="120"><b>PP</b><br/>4,702</td>
+<td align="center" width="120"><b>Rank</b><br/>#125,845</td>
+<td align="center" width="120"><b>Acc</b><br/>96.63%</td>
+<td align="center" width="120"><b>Play</b><br/>16,955</td>
 </tr>
 <tr>
-<td align="center" width="120"><img src="https://img.shields.io/badge/Level-100-ff66aa?style=flat-square" alt="Level"/><br/><b>100</b></td>
-<td align="center" width="120"><img src="https://img.shields.io/badge/Combo-1%2C526-00d4aa?style=flat-square" alt="Combo"/><br/><b>1,526</b></td>
-<td align="center" width="120"><img src="https://img.shields.io/badge/SS%2FS%2FA-0%2F71%2F909-00d4aa?style=flat-square" alt="SS/S/A"/><br/><b>0/71/909</b></td>
-<td align="center" width="120"><img src="https://img.shields.io/badge/Score-9.8B-00d4aa?style=flat-square" alt="Score"/><br/><b>9.8B</b></td>
+<td align="center" width="120"><b>Level</b><br/>100</td>
+<td align="center" width="120"><b>Combo</b><br/>1,526</td>
+<td align="center" width="120"><b>SS/S/A</b><br/>0/71/909</td>
+<td align="center" width="120"><b>Score</b><br/>9.8B</td>
 </tr>
 </table>
 
@@ -67,11 +67,11 @@
 
 ---
 
-## 🏆 Trophies
+## 📈 Contribution Graph
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=zureealLV&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=4" alt="Trophy" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zureealLV&bg_color=0d1117&color=00d4aa&line=00d4aa&point=ff66aa&area=true&area_color=00d4aa&hide_border=true" alt="Activity Graph" width="90%" />
 
 </div>
 
