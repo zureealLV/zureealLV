@@ -1,17 +1,16 @@
 <div align="center">
 
 ```
-  _____              _               
- |  __ \            | |              
- | |__) |_ _ _ _ __ | | ___ ___ _ __ 
- |  ___/ _` | | '_ \| |/ _ / _ \ '__|
- | |  | (_| | | | | | |  __/  __/ |   
- |_|   \__,_|_|_| |_|_|\___\___|_|   
+   ____ _    __
+  ____  __  __________  ___  ____ _/ / /| |  / /
+ / _  / / / / / ___/ _ \/ _ \/ __ `/ / / | | / /
+/ /_/ /_/ / /  /  __/  __/ /_/ / / /__| |/ /
+\___/\__,_/_/   \___/\___/\__,_/_/_____/___/
 ```
 
-### `> whoami`
+### `> whoami_`
 
-**osu! player** • **poet** • **赛博精神病**
+**osu! player** · **poet** · **赛博精神病**
 
 [![Blog](https://img.shields.io/badge/Blog-zureeallv.com-00d4aa?style=flat&logo=firefox&logoColor=white)](https://zureeallv.com)
 [![osu!](https://img.shields.io/badge/osu!-zureealLV-ff66aa?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiIGZpbGw9IiNmZjY2YWEiLz48L3N2Zz4=)](https://osu.ppy.sh/users/37641269)
@@ -71,10 +70,10 @@
 <div align="center">
 
 ```
-  ___  
- / _ \ 
+  ___
+ / _ \
 | (_) |
- \___/ 
+ \___/
 ```
 
 *"感谢你的庇佑🙏"*
