@@ -33,6 +33,7 @@
 </table>
 
 </div>
+
 ---
 
 ## 🛠️ Tech Stack
@@ -55,12 +56,12 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=zureealLV&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4aa&icon_color=00d4aa&text_color=c9d1d9&count_private=true" alt="GitHub Stats" width="49%" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=zureealLV&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4aa&icon_color=00d4aa&text_color=c9d1d9&count_private=true" alt="GitHub Stats" width="49%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=zureealLV&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4aa&fire=ff6b9d&currStreakLabel=00d4aa" alt="Streak Stats" width="49%" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zureealLV&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4aa&text_color=c9d1d9" alt="Top Langs" width="36%" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zureealLV&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4aa&text_color=c9d1d9" alt="Top Langs" width="36%" />
 
 </div>
 
