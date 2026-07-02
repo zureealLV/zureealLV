@@ -19,21 +19,20 @@
 
 <table>
 <tr>
-<td align="center" width="120">🎯 <b>PP</b><br/>4,702</td>
-<td align="center" width="120">🏆 <b>Rank</b><br/>#125,845</td>
-<td align="center" width="120">🎯 <b>Acc</b><br/>96.63%</td>
-<td align="center" width="120">🎮 <b>Play</b><br/>16,955</td>
+<td align="center" width="120">🎯 <b>PP</b><br/>4,872</td>
+<td align="center" width="120">🏆 <b>Rank</b><br/>#116,948</td>
+<td align="center" width="120">🎯 <b>Acc</b><br/>96.61%</td>
+<td align="center" width="120">🎮 <b>Play</b><br/>18,624</td>
 </tr>
 <tr>
 <td align="center" width="120">⭐ <b>Level</b><br/>100</td>
-<td align="center" width="120">🔥 <b>Combo</b><br/>1,526</td>
-<td align="center" width="120">🏅 <b>SS/S/A</b><br/>0/71/909</td>
-<td align="center" width="120">💯 <b>Score</b><br/>9.8B</td>
+<td align="center" width="120">🔥 <b>Combo</b><br/>1,675</td>
+<td align="center" width="120">🏅 <b>SS/S/A</b><br/>0/75/992</td>
+<td align="center" width="120">💯 <b>Score</b><br/>10.8B</td>
 </tr>
 </table>
 
 </div>
-
 ---
 
 ## 🛠️ Tech Stack
