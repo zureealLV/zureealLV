@@ -1,9 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,35:5b21b6,70:ff4fa3,100:00d4aa&height=230&section=header&text=ZUREEAL%20LV&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=POET%20%2F%2F%20PLAYER%20%2F%2F%20BUILDER&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="zureealLV header"/>
-
 <a href="https://zureeallv.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&duration=3000&pause=900&color=FF66AA&center=true&vCenter=true&width=760&lines=PC-98+memories+in+a+modern+shell;click+circles+%2F%2F+ship+strange+things;collecting+tomorrow%27s+nostalgia" alt="Typing intro"/>
+  <img src="./assets/zureeal-header.png" width="100%" alt="𝒵𝒰𝑅𝐸𝐸𝒜𝐿𝐿𝒱 — 𝒫𝒪𝐸𝒯 // 𝒫𝐿𝒜𝒴𝐸𝑅 // 𝐵𝒰𝐼𝐿𝒟𝐸𝑅"/>
 </a>
 
 [![Blog](https://img.shields.io/badge/BLOG-zureeallv.com-00d4aa?style=for-the-badge&logo=firefox&logoColor=white)](https://zureeallv.com)
@@ -13,31 +11,13 @@
 
 </div>
 
-```text
-╔══════════════════════════════════════════════════════════════════════╗
-║  ZUREEAL_OS // PERSONAL MEMORY TERMINAL                       v98.07 ║
-╠══════════════════════════════════════════════════════════════════════╣
-║  USER      zureealLV            CLASS     poet / player / builder   ║
-║  SIGNAL    vaporwave + anemoia   INPUT     keyboard + tablet         ║
-║  ARCHIVE   PC-98 / YU-NO         STATUS    synthesizing nostalgia... ║
-║  HOME      zureeallv.com         REGION    the wired                 ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
+<div align="center">
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<h3>01 // CURRENT QUEST</h3>
-Building a small corner of the wired where code, rhythm games and retro memories can coexist.
-</td>
-<td width="50%" valign="top">
-<h3>02 // FREQUENCIES</h3>
-PC-98 · YU-NO · vaporwave · Astro · osu! · poetry · strange little tools
-</td>
-</tr>
-</table>
+<img src="./assets/system-profile.png" width="100%" alt="ZUREEAL OS system profile"/>
 
-## 〔 SCORE // osu!standard 〕
+</div>
+
+<h2 align="center">✦ 𝑺𝑪𝑶𝑹𝑬 // 𝒐𝒔𝒖!𝒔𝒕𝒂𝒏𝒅𝒂𝒓𝒅 ✦</h2>
 
 <!-- OSU_STATS_START -->
 <div align="center">
@@ -68,7 +48,7 @@ PC-98 · YU-NO · vaporwave · Astro · osu! · poetry · strange little tools
 
 </div>
 
-## 〔 LOADOUT // tech stack 〕
+<h2 align="center">✦ 𝑳𝑶𝑨𝑫𝑶𝑼𝑻 // 𝒕𝒆𝒄𝒉 𝒔𝒕𝒂𝒄𝒌 ✦</h2>
 
 <div align="center">
 
@@ -83,7 +63,7 @@ PC-98 · YU-NO · vaporwave · Astro · osu! · poetry · strange little tools
 
 </div>
 
-## 〔 QUEST LOG // featured projects 〕
+<h2 align="center">✦ 𝑸𝑼𝑬𝑺𝑻 𝑳𝑶𝑮 // 𝒇𝒆𝒂𝒕𝒖𝒓𝒆𝒅 𝒑𝒓𝒐𝒋𝒆𝒄𝒕𝒔 ✦</h2>
 
 <div align="center">
 
@@ -96,7 +76,7 @@ PC-98 · YU-NO · vaporwave · Astro · osu! · poetry · strange little tools
 
 </div>
 
-## 〔 TELEMETRY // GitHub 〕
+<h2 align="center">✦ 𝑻𝑬𝑳𝑬𝑴𝑬𝑻𝑹𝒀 // 𝑮𝑰𝑻𝑯𝑼𝑩 ✦</h2>
 
 <div align="center">
 
@@ -109,7 +89,7 @@ PC-98 · YU-NO · vaporwave · Astro · osu! · poetry · strange little tools
 
 </div>
 
-## 〔 MEMORY EATER // contribution snake 〕
+<h2 align="center">✦ 𝑴𝑬𝑴𝑶𝑹𝒀 𝑬𝑨𝑻𝑬𝑹 // 𝒄𝒐𝒏𝒕𝒓𝒊𝒃𝒖𝒕𝒊𝒐𝒏 𝒔𝒏𝒂𝒌𝒆 ✦</h2>
 
 <div align="center">
 
