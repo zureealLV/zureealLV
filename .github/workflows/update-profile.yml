@@ -1,0 +1,39 @@
+name: Refresh profile data
+
+on:
+  schedule:
+    - cron: "23 1 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-profile-data
+  cancel-in-progress: true
+
+jobs:
+  update-osu-stats:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+
+      - name: Fetch current osu! statistics
+        run: python scripts/update_osu_stats.py
+
+      - name: Commit changed statistics
+        shell: bash
+        run: |
+          if git diff --quiet -- README.md; then
+            echo "No profile data changed."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "chore: refresh osu! profile stats"
+          git push
