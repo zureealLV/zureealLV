@@ -80,10 +80,10 @@
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zureealLV&theme=tokyonight" width="100%" alt="GitHub profile details"/>
+<img src="./assets/telemetry/profile-details.svg" width="100%" alt="GitHub profile details"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zureealLV&theme=tokyonight" width="49%" alt="GitHub stats"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zureealLV&theme=tokyonight&utcOffset=8" width="49%" alt="Productive time"/>
+<img src="./assets/telemetry/github-stats.svg" width="49%" alt="GitHub stats"/>
+<img src="./assets/telemetry/productive-time.svg" width="49%" alt="Productive time"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=zureealLV&bg_color=0d1117&color=c8a2ff&line=00d4aa&point=ff66aa&area=true&area_color=5b21b6&hide_border=true&custom_title=NEURAL%20ACTIVITY%20LOG" width="100%" alt="GitHub activity graph"/>
 
