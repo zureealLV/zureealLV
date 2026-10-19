@@ -25,8 +25,8 @@
 <table>
 <tr>
 <td align="center" width="150">⚡ <b>PP</b><br/>5,561.00</td>
-<td align="center" width="150">🌐 <b>Global</b><br/>#83,103</td>
-<td align="center" width="150">🇸🇬 <b>Country</b><br/>#1,065</td>
+<td align="center" width="150">🌐 <b>Global</b><br/>#83,153</td>
+<td align="center" width="150">🇸🇬 <b>Country</b><br/>#1,066</td>
 <td align="center" width="150">🎯 <b>Accuracy</b><br/>96.5851%</td>
 </tr>
 <tr>
@@ -37,7 +37,7 @@
 </tr>
 </table>
 
-<sub>Total score: <b>60.44B</b> · Play time: <b>481h</b> · Total hits: <b>6.34M</b> · Synced: <b>2026-10-18 UTC+8</b></sub>
+<sub>Total score: <b>60.44B</b> · Play time: <b>481h</b> · Total hits: <b>6.34M</b> · Synced: <b>2026-10-19 UTC+8</b></sub>
 
 </div>
 <!-- OSU_STATS_END -->
