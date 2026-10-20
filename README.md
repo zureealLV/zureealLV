@@ -85,7 +85,7 @@
 <img src="./assets/telemetry/github-stats.svg" width="49%" alt="GitHub stats"/>
 <img src="./assets/telemetry/productive-time.svg" width="49%" alt="Productive time"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zureealLV&bg_color=0d1117&color=c8a2ff&line=00d4aa&point=ff66aa&area=true&area_color=5b21b6&hide_border=true&custom_title=NEURAL%20ACTIVITY%20LOG" width="100%" alt="GitHub activity graph"/>
+<img src="./assets/telemetry/activity-graph.svg" width="100%" alt="GitHub activity graph"/>
 
 </div>
 
@@ -101,7 +101,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=zureealLV&color=ff66aa&style=for-the-badge&label=PROFILE+SIGNAL" alt="Profile views"/>
+<img src="./assets/telemetry/profile-signal.svg" alt="Profile signal online"/>
 
 <br/><br/>
 
