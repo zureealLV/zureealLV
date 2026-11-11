@@ -24,20 +24,20 @@
 
 <table>
 <tr>
-<td align="center" width="150">⚡ <b>PP</b><br/>5,728.48</td>
-<td align="center" width="150">🌐 <b>Global</b><br/>#76,787</td>
+<td align="center" width="150">⚡ <b>PP</b><br/>5,728.49</td>
+<td align="center" width="150">🌐 <b>Global</b><br/>#76,846</td>
 <td align="center" width="150">🇸🇬 <b>Country</b><br/>#975</td>
-<td align="center" width="150">🎯 <b>Accuracy</b><br/>96.9760%</td>
+<td align="center" width="150">🎯 <b>Accuracy</b><br/>96.9759%</td>
 </tr>
 <tr>
-<td align="center" width="150">🎮 <b>Play Count</b><br/>26,419</td>
+<td align="center" width="150">🎮 <b>Play Count</b><br/>26,437</td>
 <td align="center" width="150">⭐ <b>Level</b><br/>100.36</td>
 <td align="center" width="150">🔥 <b>Max Combo</b><br/>1,675×</td>
-<td align="center" width="150">🏅 <b>SS / S / A</b><br/>2 / 108 / 1,323</td>
+<td align="center" width="150">🏅 <b>SS / S / A</b><br/>2 / 109 / 1,323</td>
 </tr>
 </table>
 
-<sub>Total score: <b>63.37B</b> · Play time: <b>497h</b> · Total hits: <b>6.57M</b> · Synced: <b>2026-11-10 UTC+8</b></sub>
+<sub>Total score: <b>63.40B</b> · Play time: <b>497h</b> · Total hits: <b>6.58M</b> · Synced: <b>2026-11-11 UTC+8</b></sub>
 
 </div>
 <!-- OSU_STATS_END -->
